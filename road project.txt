@@ -1,8 +1,0 @@
-1-import data 
-2-data wrangling
-3-map with Region population                                             (2020)
-4-visualize realtion (Rank egypt in world population Vs years)           (2020)
-5-select egypt and visualize realtion (total population Vs years)     (to 2020)
-6-map with top cities population
-7-visualize top countries by gragh (2022)
-
