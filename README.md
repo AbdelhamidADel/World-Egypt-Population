@@ -1,9 +1,9 @@
 # World-Egypt-Population
 <p align="center">
   <img 
-    width="485"
+    width="1000"
     height="440"
-    src="https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A230dd95d2076223ab9b3f5667ba26241e904a5cea9a301fee62c9ddd%2BIMAGE_TINY%2BIMAGE_TINY.1"
+    src="https://pbs.twimg.com/media/Egb6ZkZUMAAZOpF.jpg:large"
   >
 </p>
 
